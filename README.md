@@ -158,7 +158,7 @@ erDiagram
     ```
 
 4.  **Access the App:**
-    Open your browser and navigate to: `http://localhost:8080`
+    Open your browser and navigate to: `http://localhost:8080/login.html`
 
 ---
 
@@ -184,6 +184,19 @@ curl -X POST http://localhost:8080/api/notes \
 
 ---
 
-## 📝 License
+## 👨‍💻 Author
 
-This project is licensed under the MIT License.
+**Vishesh Raj**
+
+---
+
+## ⭐ Why This Project Matters
+
+This project demonstrates:
+
+- Authentication & Authorization
+- Secure CRUD operations
+- Database relationships (OneToMany)
+- Exception handling best practices
+- Clean architecture design
+- Real-world backend patterns 
